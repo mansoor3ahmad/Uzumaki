@@ -11,3 +11,9 @@
 10. We can see the status of the files created in the pc by "git status".
 11. To create new branch in local repo "git branch <branchname>".
 12. To move to a specific branch "git checkout <branchname>".
+13. After creating a branch we can merge branches by "git merge <branchname>".
+14. "merge" is a graph type branching and "rebase" is a linear branching.
+15. "rebase" can be done using "git rebase <branchname>".
+16. "fetch" is similar to "pull".
+17.  We need to establish connection by generating "ssh-keygen" and after generating ssh key we need to copy that ssh in to github profile settings and after copying the ssh we need to type "ssh -T git@github.com".
+18. "push" statement is "git push origin <branchname>". 
